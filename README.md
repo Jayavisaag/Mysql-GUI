@@ -31,7 +31,7 @@ Before running this application, ensure you have the following installed:
 
 3. **Run the application:**
    ```bash
-   python pythonguiupdateduuuu.py
+   python main.py
    ```
 
 ## 🔐 Login
